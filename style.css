@@ -3,10 +3,11 @@ body {
 }
 
 h1 {
+    font-size: 100pt;
+    color: yellow;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 100pt;
-    color: yellow;
+
   }
